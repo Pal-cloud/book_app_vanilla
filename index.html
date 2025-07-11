@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Gestor de Libros</title>
+  <link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>Books-App</h1>
+  </header>
+
+  <main>
+    <button onclick="printBooks()">📚 Cargar Libros</button>
+
+    <!-- Formulario de creación -->
+    <h2>📖 Crear nuevo libro</h2>
+    <form id="create-book-form">
+      <input type="text" id="title" placeholder="Título" required>
+      <input type="text" id="writer" placeholder="Autor" required>
+      <textarea id="book_description" placeholder="Descripción" required></textarea>
+      <button type="submit">Crear</button>
+    </form>
+
+    <!-- Sección donde se listan los libros -->
+    <section id="book-section"></section>
+  </main>
+
+  <script src="src/service.js"></script>
+</body>
+</html>

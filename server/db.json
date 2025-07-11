@@ -1,0 +1,58 @@
+{
+  "books": [
+  {
+    "title": "La casa de los espíritus",
+    "writer": "Isabel Allende",
+    "book_description": "Una saga familiar que abarca varias generaciones, en la que lo mágico y lo real se entrelazan para contar la historia de los Trueba, una familia marcada por el amor, el poder, la tragedia y los cambios sociales de Chile.",
+    "id": "1"
+  },
+  {
+    "title": "Arráncame la vida",
+    "writer": "Ángeles Mastretta",
+    "book_description": "Narra la vida de Catalina Guzmán, una joven que crece y se transforma en una mujer decidida e independiente mientras está casada con un poderoso y violento político mexicano en los años posteriores a la Revolución.",
+    "id": "2"
+  },
+  {
+    "title": "Como agua para chocolate",
+    "writer": "Laura Esquivel",
+    "book_description": "Una novela que mezcla recetas culinarias con una historia de amor apasionada y mágica en el México revolucionario, mostrando la relación entre la comida, las emociones y la cultura.",
+    "id": "3"
+  },
+  {
+    "title": "Los recuerdos del porvenir",
+    "writer": "Elena Garro",
+    "book_description": "Una novela que combina lo real y lo fantástico para narrar la vida de un pueblo mexicano marcado por la violencia y la historia, con un enfoque en la memoria y el tiempo.",
+    "id": "4"
+  },
+  {
+    "title": "La noche de Tlatelolco",
+    "writer": "Elena Poniatowska",
+    "book_description": "Un testimonio periodístico-literario que narra la masacre de estudiantes en la Plaza de las Tres Culturas en México en 1968, a través de voces y relatos de sobrevivientes y testigos.",
+    "id": "5"
+  }, 
+  {
+    "title": "Arráncame la vida",
+    "writer": "Ángeles Mastretta",
+    "book_description": "Narra la vida de Catalina Guzmán, una joven que crece y se transforma en una mujer decidida e independiente mientras está casada con un poderoso y violento político mexicano en los años posteriores a la Revolución.",
+    "id": "6"
+  },
+  {
+    "title": "Arráncame la vida",
+    "writer": "Ángeles Mastretta",
+    "book_description": "Narra la vida de Catalina Guzmán, una joven que crece y se transforma en una mujer decidida e independiente mientras está casada con un poderoso y violento político mexicano en los años posteriores a la Revolución.",
+    "id": "7"
+  },
+   {
+    "title": "Arráncame la vida",
+    "writer": "Ángeles Mastretta",
+    "book_description": "Narra la vida de Catalina Guzmán, una joven que crece y se transforma en una mujer decidida e independiente mientras está casada con un poderoso y violento político mexicano en los años posteriores a la Revolución.",
+    "id": "8"
+  },
+  {
+    "title": "Tengo miedo torero",
+    "writer": "Pedro Lemebel",
+    "book_description": "Ambientada en el Chile de los años 80, durante la dictadura de Pinochet, esta novela relata la historia de amor entre una travesti llamada la Loca del Frente y un joven revolucionario. Es una mezcla de ternura, resistencia política y crítica social.",
+    "id": "9"
+  },
+  ]
+}
